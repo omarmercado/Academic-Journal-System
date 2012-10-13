@@ -1,3 +1,8 @@
+/*
+ * Author : Omar Manuel Mercado Casillas
+ * Date: 14/05/2012
+ * Project: Electronic Journal System
+ */
 package org.ecom.journalController;
 
 import java.util.ArrayList;
